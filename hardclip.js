@@ -1,4 +1,4 @@
-desc:Hard Clipper (0 to +6 dB pregain)
+desc:hardclip
 
 //-----------------------------------------
 // Sliders
